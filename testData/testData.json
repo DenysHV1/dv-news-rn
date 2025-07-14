@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is tasked with planting an idea into a CEO's mind.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "releaseDate": "2010-07-16"
+  },
+  {
+    "id": 3,
+    "title": "The Matrix",
+    "description": "A hacker learns about the true nature of reality and his role in the war against its controllers.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "1999-03-31"
+  },
+  {
+    "id": 6,
+    "title": "Terminator 2: Judgment Day",
+    "description": "A cyborg protects John Connor from a more advanced cyborg sent to kill him.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "1991-07-03"
+  },
+  {
+    "id": 8,
+    "title": "Back to the Future",
+    "description": "Marty McFly travels back in time in a DeLorean invented by Doc Brown.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "1985-07-03"
+  },
+  {
+    "id": 10,
+    "title": "The Terminator",
+    "description": "A cyborg is sent from 2029 to 1984 to kill a woman whose unborn son is key to humanity's future.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "1984-10-26"
+  },
+  {
+    "id": 11,
+    "title": "2001: A Space Odyssey",
+    "description": "Humanity discovers a mysterious object on the Moon and embarks on a quest with H.A.L. 9000.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "1968-04-10"
+  },
+  {
+    "id": 13,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "description": "A couple undergoes a procedure to erase each other from their memories.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+    "releaseDate": "2004-03-19"
+  },
+  {
+    "id": 14,
+    "title": "Jurassic Park",
+    "description": "A paleontologist protects kids after dinosaurs escape in a theme park.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+    "releaseDate": "1993-06-11"
+  },
+  {
+    "id": 18,
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, Max aids a woman rebelling against a tyrant.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "releaseDate": "2015-05-15"
+  },
+  {
+    "id": 20,
+    "title": "Gravity",
+    "description": "Two astronauts struggle to survive after an accident leaves them stranded in space.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_.jpg",
+    "releaseDate": "2013-10-04"
+  },
+  {
+    "id": 34,
+    "title": "E.T. the Extra-Terrestrial",
+    "description": "A boy hides an alien and forms a bond while a task force hunts it.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "1982-06-11"
+  },
+  {
+    "id": 41,
+    "title": "Moon",
+    "description": "An astronaut faces a personal crisis near the end of his lunar mission.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_.jpg",
+    "releaseDate": "2009-06-12"
+  },
+  {
+    "id": 43,
+    "title": "Annihilation",
+    "description": "A biologist explores a mysterious zone where the laws of nature are altered.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_.jpg",
+    "releaseDate": "2018-02-23"
+  },
+  {
+    "id": 46,
+    "title": "Tenet",
+    "description": "A Protagonist navigates espionage and time inversion to save the world.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+    "releaseDate": "2020-08-26"
+  },
+  {
+    "id": 47,
+    "title": "Everything Everywhere All at Once",
+    "description": "A woman explores alternate universes to save existence.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "releaseDate": "2022-03-25"
+  },
+  {
+    "id": 48,
+    "title": "Oppenheimer",
+    "description": "The story of J. Robert Oppenheimer and the atomic bomb's development.",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "releaseDate": "2023-07-21"
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in space to ensure humanity's survival.",
+    "posterUrl": "",
+    "releaseDate": "2014-11-05"
+  },
+  {
+    "id": 4,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "description": "Luke Skywalker trains with Yoda while his friends are pursued by Darth Vader.",
+    "posterUrl": "",
+    "releaseDate": "1980-05-20"
+  },
+  {
+    "id": 5,
+    "title": "Star Wars",
+    "description": "Luke Skywalker joins forces to save the galaxy from the Empire's battle station.",
+    "posterUrl": "",
+    "releaseDate": "1977-05-25"
+  },
+  {
+    "id": 7,
+    "title": "Dune: Part Two",
+    "description": "Paul Atreides unites with the Fremen to seek revenge and secure his destiny.",
+    "posterUrl": "",
+    "releaseDate": "2024-03-01"
+  },
+  {
+    "id": 9,
+    "title": "Blade Runner",
+    "description": "A blade runner hunts replicants who have returned to Earth.",
+    "posterUrl": "",
+    "releaseDate": "1982-06-25"
+  },
+  {
+    "id": 12,
+    "title": "Aliens",
+    "description": "Ripley returns to confront the Alien after 57 years in hypersleep.",
+    "posterUrl": "",
+    "releaseDate": "1986-07-18"
+  },
+  {
+    "id": 15,
+    "title": "Dune",
+    "description": "Paul Atreides travels to the dangerous planet harboring a valuable resource.",
+    "posterUrl": "",
+    "releaseDate": "2021-09-15"
+  },
+  {
+    "id": 16,
+    "title": "Alien",
+    "description": "A spacecraft crew encounters a deadly lifeform after a mysterious transmission.",
+    "posterUrl": "",
+    "releaseDate": "1979-05-25"
+  },
+  {
+    "id": 17,
+    "title": "Arrival",
+    "description": "A linguist works to communicate with aliens after spacecraft appear worldwide.",
+    "posterUrl": "",
+    "releaseDate": "2016-11-11"
+  },
+  {
+    "id": 19,
+    "title": "The Prestige",
+    "description": "Two magicians engage in a lifelong rivalry filled with obsession and deceit.",
+    "posterUrl": "",
+    "releaseDate": "2006-10-20"
+  },
+  {
+    "id": 21,
+    "title": "Ex Machina",
+    "description": "A programmer evaluates the human qualities of an advanced humanoid A.I.",
+    "posterUrl": "",
+    "releaseDate": "2015-04-10"
+  },
+  {
+    "id": 22,
+    "title": "Children of Men",
+    "description": "In a world where women are infertile, a man protects a miraculously pregnant woman.",
+    "posterUrl": "",
+    "releaseDate": "2006-12-25"
+  },
+  {
+    "id": 23,
+    "title": "District 9",
+    "description": "Aliens are confined to a South African slum, and a company seeks their technology.",
+    "posterUrl": "",
+    "releaseDate": "2009-08-14"
+  },
+  {
+    "id": 24,
+    "title": "The Fifth Element",
+    "description": "A cab driver becomes central in a search for a cosmic weapon to stop Evil.",
+    "posterUrl": "",
+    "releaseDate": "1997-05-09"
+  },
+  {
+    "id": 25,
+    "title": "Metropolis",
+    "description": "In a futuristic city, a worker's son and a prophet seek to bridge class divides.",
+    "posterUrl": "",
+    "releaseDate": "1927-03-13"
+  },
+  {
+    "id": 26,
+    "title": "Edge of Tomorrow",
+    "description": "A soldier relives the same day to fight aliens, restarting with each death.",
+    "posterUrl": "",
+    "releaseDate": "2014-06-06"
+  },
+  {
+    "id": 27,
+    "title": "Minority Report",
+    "description": "A cop in a future where crimes are predicted is accused of a future murder.",
+    "posterUrl": "",
+    "releaseDate": "2002-06-21"
+  },
+  {
+    "id": 28,
+    "title": "Predator",
+    "description": "Commandos in a jungle are hunted by an extraterrestrial warrior.",
+    "posterUrl": "",
+    "releaseDate": "1987-06-12"
+  },
+  {
+    "id": 29,
+    "title": "Donnie Darko",
+    "description": "A teenager is told by a demonic rabbit that the world will end in 28 days.",
+    "posterUrl": "",
+    "releaseDate": "2001-10-26"
+  },
+  {
+    "id": 30,
+    "title": "Ghost in the Shell",
+    "description": "A cyber-enhanced soldier stops dangerous criminals in a futuristic world.",
+    "posterUrl": "",
+    "releaseDate": "1995-11-18"
+  },
+  {
+    "id": 31,
+    "title": "Akira",
+    "description": "A biker gains psychic powers, threatening Neo-Tokyo, stopped by teens and psychics.",
+    "posterUrl": "",
+    "releaseDate": "1988-07-16"
+  },
+  {
+    "id": 32,
+    "title": "Solaris",
+    "description": "A psychologist investigates a crew on a station orbiting a strange planet.",
+    "posterUrl": "",
+    "releaseDate": "1972-03-20"
+  },
+  {
+    "id": 33,
+    "title": "The Day the Earth Stood Still",
+    "description": "An alien demands Earth live peacefully or face destruction.",
+    "posterUrl": "",
+    "releaseDate": "1951-09-28"
+  },
+  {
+    "id": 35,
+    "title": "Close Encounters of the Third Kind",
+    "description": "A man follows psychic clues to meet extraterrestrial visitors.",
+    "posterUrl": "",
+    "releaseDate": "1977-11-16"
+  },
+  {
+    "id": 36,
+    "title": "The Thing",
+    "description": "Scientists in Antarctica face a shape-shifting alien that mimics its victims.",
+    "posterUrl": "",
+    "releaseDate": "1982-06-25"
+  },
+  {
+    "id": 37,
+    "title": "RoboCop",
+    "description": "A wounded cop becomes a cyborg in a crime-ridden Detroit.",
+    "posterUrl": "",
+    "releaseDate": "1987-07-17"
+  },
+  {
+    "id": 38,
+    "title": "Total Recall",
+    "description": "A man’s implanted Mars vacation memories lead to a real, dangerous adventure.",
+    "posterUrl": "",
+    "releaseDate": "1990-06-01"
+  },
+  {
+    "id": 39,
+    "title": "Gattaca",
+    "description": "A genetically inferior man assumes a new identity to pursue space travel.",
+    "posterUrl": "",
+    "releaseDate": "1997-10-24"
+  },
+  {
+    "id": 40,
+    "title": "Contact",
+    "description": "A scientist finds proof of alien intelligence and decodes a mysterious machine.",
+    "posterUrl": "",
+    "releaseDate": "1997-07-11"
+  },
+  {
+    "id": 42,
+    "title": "Her",
+    "description": "A writer forms a relationship with an advanced operating system.",
+    "posterUrl": "",
+    "releaseDate": "2013-12-18"
+  },
+  {
+    "id": 44,
+    "title": "Upgrade",
+    "description": "A technophobe seeks revenge with an experimental AI implant.",
+    "posterUrl": "",
+    "releaseDate": "2018-06-01"
+  },
+  {
+    "id": 45,
+    "title": "Ad Astra",
+    "description": "An astronaut searches for his missing father, whose expedition threatens the universe.",
+    "posterUrl": "",
+    "releaseDate": "2019-09-20"
+  },
+  {
+    "id": 49,
+    "title": "Poor Things",
+    "description": "A revived woman embarks on an adventure for equality and liberation.",
+    "posterUrl": "",
+    "releaseDate": "2023-12-08"
+  },
+  {
+    "id": 50,
+    "title": "The Creator",
+    "description": "A soldier finds a child-like robot in a war between humans and AI.",
+    "posterUrl": "",
+    "releaseDate": "2023-09-29"
+  }
+]

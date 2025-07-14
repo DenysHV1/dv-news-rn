@@ -1,5 +1,6 @@
 import MainScreen from "./screens/MainScreen.jsx";
 import NewsScreen from "./screens/NewsScreen.jsx";
+import FilmScreen from "./screens/FilmScreen.jsx";
 import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer } from "@react-navigation/native";
 import Header from "./components/header.jsx";
@@ -7,7 +8,6 @@ import Header from "./components/header.jsx";
 const Stack = createStackNavigator();
 
 export default function Navigate() {
-  
   const options = ({ navigation }) => ({
     header: () => <Header navigation={navigation} />,
   });
@@ -20,6 +20,7 @@ export default function Navigate() {
       >
         <Stack.Screen name="Main" component={MainScreen} options={options} />
         <Stack.Screen name="News" component={NewsScreen} options={options} />
+        <Stack.Screen name="Film" component={FilmScreen} options={options} />
       </Stack.Navigator>
     </NavigationContainer>
   );
