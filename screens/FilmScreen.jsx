@@ -29,7 +29,7 @@ const s = StyleSheet.create({
     padding: 24,
   },
   title: {
-	fontFamily: "os-variable",
+    fontFamily: "os-variable",
     fontSize: 28,
     fontWeight: "bold",
     color: "#222",
@@ -43,10 +43,10 @@ const s = StyleSheet.create({
     marginBottom: 16,
     lineHeight: 22,
     paddingHorizontal: 12,
-	fontFamily: "os-variable",
+    fontFamily: "os-variable",
   },
   releaseDate: {
-	fontFamily: "os-variable-italic",
+    fontFamily: "os-variable-italic",
     fontSize: 14,
     color: "#666",
     marginBottom: 30,
@@ -60,7 +60,7 @@ const s = StyleSheet.create({
     elevation: 3,
   },
   buttonText: {
-	fontFamily: "os-variable",
+    fontFamily: "os-variable",
     color: "#fff",
     fontSize: 16,
     fontWeight: "600",
