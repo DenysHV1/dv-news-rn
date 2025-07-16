@@ -15,7 +15,7 @@ export default function Header({ navigation }) {
   });
 
   return (
-    <View style={{ marginBottom: 10 }}>
+    <View>
       <HeaderInner onOpen={setMenu} navigation={navigation} />
       <HeaderModal
         menuStatus={menu}

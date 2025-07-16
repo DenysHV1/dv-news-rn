@@ -29,7 +29,7 @@ const HeaderInner = ({ onOpen, navigation }) => {
 
 const s = StyleSheet.create({
   header_container: {
-    width: "90%",
+    width: "95%",
     height: 50,
     flexDirection: "row",
     justifyContent: "space-between",
